@@ -1,0 +1,23 @@
+G:\My Drive\University\2021-2022\HocKyII\PhatTrienUngDungDesktop\Lab\Lab03\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe.config
+G:\My Drive\University\2021-2022\HocKyII\PhatTrienUngDungDesktop\Lab\Lab03\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe
+G:\My Drive\University\2021-2022\HocKyII\PhatTrienUngDungDesktop\Lab\Lab03\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.pdb
+G:\My Drive\University\2021-2022\HocKyII\PhatTrienUngDungDesktop\Lab\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.AssemblyReference.cache
+G:\My Drive\University\2021-2022\HocKyII\PhatTrienUngDungDesktop\Lab\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\University\2021-2022\HocKyII\PhatTrienUngDungDesktop\Lab\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.frmSinhVien.resources
+G:\My Drive\University\2021-2022\HocKyII\PhatTrienUngDungDesktop\Lab\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.Properties.Resources.resources
+G:\My Drive\University\2021-2022\HocKyII\PhatTrienUngDungDesktop\Lab\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.GenerateResource.cache
+G:\My Drive\University\2021-2022\HocKyII\PhatTrienUngDungDesktop\Lab\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.CoreCompileInputs.cache
+G:\My Drive\University\2021-2022\HocKyII\PhatTrienUngDungDesktop\Lab\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.exe
+G:\My Drive\University\2021-2022\HocKyII\PhatTrienUngDungDesktop\Lab\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.pdb
+G:\My Drive\University\2021-2022\HocKyII\PhatTrienUngDungDesktop\Lab\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.ContextOption.resources
+D:\PTDesktop\lab03\Lab3_Demo\bin\Debug\Lab3_Demo.exe.config
+D:\PTDesktop\lab03\Lab3_Demo\bin\Debug\Lab3_Demo.exe
+D:\PTDesktop\lab03\Lab3_Demo\bin\Debug\Lab3_Demo.pdb
+D:\PTDesktop\lab03\Lab3_Demo\obj\Debug\Lab3_Demo.csprojAssemblyReference.cache
+D:\PTDesktop\lab03\Lab3_Demo\obj\Debug\Lab3_Demo.ContextOption.resources
+D:\PTDesktop\lab03\Lab3_Demo\obj\Debug\Lab3_Demo.frmSinhVien.resources
+D:\PTDesktop\lab03\Lab3_Demo\obj\Debug\Lab3_Demo.Properties.Resources.resources
+D:\PTDesktop\lab03\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.GenerateResource.cache
+D:\PTDesktop\lab03\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.CoreCompileInputs.cache
+D:\PTDesktop\lab03\Lab3_Demo\obj\Debug\Lab3_Demo.exe
+D:\PTDesktop\lab03\Lab3_Demo\obj\Debug\Lab3_Demo.pdb
